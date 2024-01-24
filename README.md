@@ -1,5 +1,4 @@
 The app page:https://65956794a3598900a1bfbd31--cerulean-torrone-e715a9.netlify.app/
-https://github.com/Ayham-alia/Employee-mangment-react-app/assets/121506223/b1bfecc3-6ab1-426c-a5ab-168bb14f0c80
 
 # Getting Started with Create React App
 
@@ -10,6 +9,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+###video1
+https://github.com/Ayham-alia/Employee-mangment-react-app/assets/121506223/a865f096-de33-4079-af24-daf369149c88
+###video2
+https://github.com/Ayham-alia/Employee-mangment-react-app/assets/121506223/5f6600ab-cc49-45ca-95d3-14dbf2b4f1a2
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
