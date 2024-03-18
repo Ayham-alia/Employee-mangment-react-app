@@ -1,4 +1,6 @@
 The app page:https://65956794a3598900a1bfbd31--cerulean-torrone-e715a9.netlify.app/
+username:admin@admin.com
+password:123456
 
 # Getting Started with Create React App
 
